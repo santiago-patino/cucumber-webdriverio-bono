@@ -51,4 +51,4 @@ Feature: Register into losestudiantes
 
       Examples:
       | name            | lastname | email                | password | message    | textButton |
-      | Andres          | Parra    | miso109@gmail.com     | 12345678 | "Ya puedes calificar profesores, materias y universiades." | "Log in" |
+      | Andres          | Parra    | miso209@gmail.com     | 12345678 | "Ya puedes calificar profesores, materias y universiades." | "Log in" |
